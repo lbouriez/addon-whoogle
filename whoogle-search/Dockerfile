@@ -14,14 +14,16 @@
 # 1 Build Image #
 #################
 
-ARG BUILD_FROM
+ARG BUILD_FROM=ghcr.io/benbusby/whoogle-search:latest
 ARG BUILD_VERSION
+# hadolint ignore=DL3006
 FROM ${BUILD_FROM}
 
 ##################
 # 2 Modify Image #
 ##################
 
+# hadolint ignore=DL3002
 USER root
 
 ##################

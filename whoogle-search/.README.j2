@@ -19,7 +19,7 @@ _Thanks to everyone having starred my repo! To star it click on the image below,
 ## About
 
 [whoogle-search](https://github.com/benbusby/whoogle-search) is a Self-hosted, ad-free, privacy-respecting metasearch engine.
-This addon is based on the docker image https://hub.docker.com/r/benbusby/whoogle-search/tags
+This addon is based on the docker image [https://hub.docker.com/r/benbusby/whoogle-search/tags](https://hub.docker.com/r/benbusby/whoogle-search/tags)
 
 ## Configuration
 
@@ -36,7 +36,7 @@ Options can be configured through two ways :
 
 - Config.yaml
 
-Custom env variables can be added to the config.yaml file referenced in the addon options. Full env variables can be found here : https://github.com/benbusby/whoogle-search#environment-variables. It must be entered in a valid yaml format, that is verified at launch of the addon.
+Custom env variables can be added to the config.yaml file referenced in the addon options. Full env variables can be found here : [https://github.com/benbusby/whoogle-search#environment-variables](https://github.com/benbusby/whoogle-search#environment-variables). It must be entered in a valid yaml format, that is verified at launch of the addon.
 
 ## Installation
 
